@@ -1,0 +1,12 @@
+matplotlib==3.6.2
+    # via
+    #   -r requirements.in
+    #   seaborn
+numpy==1.23.5
+    # via
+    #   -r requirements.in
+    #   contourpy
+    #   matplotlib
+    #   pandas
+    #   scipy
+    #   seaborn
